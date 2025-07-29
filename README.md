@@ -1,4 +1,3 @@
-
 # 🚀 Portfolio — Mohammad Zaid
 
 A sleek, interactive, and fully responsive portfolio website built with **React 19**, **Tailwind CSS**, and modern libraries. Designed to showcase skills, projects, and experience for recruiters, clients, and collaborators.
@@ -7,7 +6,7 @@ A sleek, interactive, and fully responsive portfolio website built with **React 
 
 ## 🌐 Live Demo
 
-🔗 [View Live Portfolio](https://mohammad_zaid.vercel.app)
+🔗 [View Live Portfolio](https://mohammad-zaid.vercel.app)
 📂 [GitHub Repository](https://github.com/mohammadzaid07/portfolio)
 
 ---
@@ -67,7 +66,7 @@ VITE_EMAILJS_TEMPLATE_ID=your_template_id
 VITE_EMAILJS_API_PUBLIC_KEY=your_public_key
 ```
 
-> 🔑 Replace with your actual credentials from [EmailJS Dashboard](https://dashboard.emailjs.com/admin/account).     
+> 🔑 Replace with your actual credentials from [EmailJS Dashboard](https://dashboard.emailjs.com/admin/account).
 
 ### 4. Run Locally
 
@@ -84,7 +83,6 @@ npm run build
 ---
 
 ## ✨ Screenshot
-
 
 ![1753803100835](image/README/1753803100835.png)
 

@@ -63,7 +63,7 @@ const Contact = () => {
         <h2 className='text-white text-3xl sm:text-4xl font-bold'>
           CONTACT
         </h2>
-        <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
+        <div className="w-44 h-1 bg-purple-500 mx-auto mt-2"></div>
         <p className='text-gray-300 mt-4 text-lg font-bold'>
           Let’s build something great together — I’m open to full-time and freelance opportunities
         </p>
