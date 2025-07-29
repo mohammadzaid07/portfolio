@@ -51,7 +51,7 @@ export const aboutInfo = [
 
         aboutMe: "I'm a Computer Science graduate and aspiring full-stack developer with a passion for building clean, user-friendly web applications. With a strong foundation in frontend development and hands-on experience through real-world projects, I'm constantly learning and evolving to craft efficient, scalable, and engaging digital solutions.",
 
-        resumeLink: "https://drive.google.com/file/d/15kcAQGvAnZm5N3djf8n1HTIokoC0f9pG/view?usp=sharing",
+        resumeLink: "https://drive.google.com/file/d/1RJJ5MNnxFRiEn3HHilrx6bPpx4y90DS4/view?usp=sharing",
 
         linkedinLink: "https://www.linkedin.com/in/mohammadzaid07/",
 
