@@ -32,7 +32,7 @@ const Contact = () => {
             closeOnClick: true,
             pauseOnHover: true,
             draggable: true,
-            theme: 'dark,'
+            theme: 'dark',
           });
         },
         (error) => {
@@ -77,7 +77,7 @@ const Contact = () => {
         <h3 className='text-xl font-semi-bold text-white text-center'>
           Connect With Me
         </h3>
-        <form ref={form} onSubmit={sendEmail} className='mt-4 flex-flex-col space-y-4'>
+        <form ref={form} onSubmit={sendEmail} className='mt-4 flex flex-col space-y-4'>
           <input type='email' name='user_email' placeholder='Enter Email' required className='w-full p-3 rounded-md bg-[#131025] hover:bg-gray-800 text-white border border-gray-600 focus:outline-none focus:border-purple-500' >
           </input>
           <input type='text' name='user_name' placeholder='Enter Name' required className='w-full p-3 rounded-md bg-[#131025] hover:bg-gray-800 text-white border border-gray-600 focus:outline-none focus:border-purple-500' >
